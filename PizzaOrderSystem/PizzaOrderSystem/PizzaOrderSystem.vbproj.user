@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BillPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Drink1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Drink2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrinksPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pizza1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pizza2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pizza3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PizzaPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Side1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Side2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SidesPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
